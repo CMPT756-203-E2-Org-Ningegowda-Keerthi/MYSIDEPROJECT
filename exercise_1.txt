@@ -1,0 +1,3 @@
+This file consists of Exercise-1 description
+In excercise 1, we focussed on setting up our laptops with required softwares for the course.
+We also worked on IAM in Aws which was exciting.
