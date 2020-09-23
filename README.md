@@ -1,2 +1,4 @@
 # MYSIDEPROJECT
-Exercise -2. Refreshing Git commands
+
+#### This repository conists of the code that is necessary to build a basic calculator in Python
+
