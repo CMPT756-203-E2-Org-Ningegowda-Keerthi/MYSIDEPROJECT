@@ -10,8 +10,8 @@
 print("This program performs addition of 2 numbers")
 
 ##Taking input from user
-a = int(input("Enter first number  "))
-b = int(input("Enter second number "))
+a = float(input("Enter first number  "))
+b = float(input("Enter second number "))
 
 
 ##Print sum of 2 numbers
